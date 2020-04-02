@@ -61,3 +61,5 @@ Example config for VSCode:
 
 You can visit us on our discord: https://discord.gg/engineerman
  to ask questions and see felix in action.
+
+You can template our discord to test felix: https://discord.new/yRj2jmUkRAXE
